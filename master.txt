@@ -1,0 +1,1 @@
+This file is created for testing the "master" branch in the "hello-world" repository.
